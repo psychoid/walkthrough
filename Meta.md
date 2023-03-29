@@ -2,7 +2,7 @@
 
 Download samples and extract.
 
-1 - What is the camera model?
+1 - What is the camera model?\n
 R = Canon EOS 550D
 Tool/Command: exiftool uploaded_1.JPG | grep Model
 
