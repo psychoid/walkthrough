@@ -1,5 +1,5 @@
-# walkthrough
+# Walkthrough
 
-- BTLO
-/ Challenge: META
+## BTLO
+- <a href="META.md">META<a/>
 
