@@ -1,5 +1,5 @@
 # Walkthrough
 
 ## BTLO
-- <a href="META.md">META<a/>
+- <a href="Meta.md">META<a/>
 
