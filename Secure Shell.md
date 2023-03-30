@@ -18,4 +18,4 @@ R = `2021-04-29 23:52:25.989`
 R = `DEBUG3`
 
 6 - Where is the log file located in Windows?
-R = ` `
+R = `C:\ProgramData\ssh\logs\sshd.log`
